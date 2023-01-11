@@ -1,1 +1,1 @@
-# siamese-net
+# Siamese Network for Intrusion Detection
